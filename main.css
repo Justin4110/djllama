@@ -1,16 +1,49 @@
 #h1 {
-    color: rgb(225, 18, 121);
+    color: rgb(236, 7, 248);
     text-align: center;
 }
-#button {
-    width: 150px;	
+#button1 {
+    width: 100%;	
 	padding: 10px 12px;
-	background: rgba(240, 8, 8, 0.15);
+	background: rgba(240, 8, 8, 0.974);
     color: rgb(255, 255, 255);	
 }
+#button2 {
+    width: 100%;	
+	padding: 10px 12px;
+	background: rgba(255, 204, 0, 0.891);
+    color: rgb(255, 255, 255);	
+}
+#button3 {
+    width: 100%;	
+	padding: 10px 12px;
+	background: green;
+    color: rgb(255, 255, 255);	
+}
+#button4 {
+    width: 100%;	
+	padding: 10px 12px;
+	background: blue;
+    color: rgb(255, 255, 255);	
+}
+#button5 {
+    width: 100%;	
+	padding: 10px 12px;
+	background: blueviolet;
+    color: rgb(255, 255, 255);	
+}
+
 #main {
     background-color: teal;
 }
-#div {
-    padding-left: 400px;
+#p1 {
+    text-align: center;
+    color: hotpink;
+    font-size: 80px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
